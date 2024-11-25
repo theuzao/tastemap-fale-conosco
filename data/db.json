@@ -1,0 +1,32 @@
+{
+  "mensagens": [
+    {
+      "id": "bb08",
+      "motivo": "outros",
+      "assunto": "Não consigo encontrar um restaurante",
+      "mensagem": "Estou tentando encontrar um restaurante no site, mas não consigo localizá-lo na busca. Existe uma maneira mais fácil de pesquisar ou filtrar os resultados?\"",
+      "data": "2024-11-24T18:39:54.290Z"
+    },
+    {
+      "id": "bddc",
+      "motivo": "outros",
+      "assunto": "Informações sobre os restaurantes",
+      "mensagem": "Quais informações são exibidas sobre os restaurantes cadastrados? Estou procurando mais detalhes sobre o cardápio e horário de funcionamento.",
+      "data": "2024-11-24T18:40:36.418Z"
+    },
+    {
+      "id": "5f5a",
+      "motivo": "outros",
+      "assunto": "Filtros no site",
+      "mensagem": "Gostaria de saber se é possível salvar filtros no site, como tipo de culinária ou localização, para não precisar selecionar toda vez que acessar.",
+      "data": "2024-11-24T18:41:19.785Z"
+    },
+    {
+      "id": "4c92",
+      "motivo": "localizacao",
+      "assunto": "Como falar com o suporte?",
+      "mensagem": "Preciso de ajuda para relatar um problema com um restaurante, mas não sei como entrar em contato com vocês. Existe algum e-mail ou telefone para suporte?",
+      "data": "2024-11-24T18:41:47.316Z"
+    }
+  ]
+}

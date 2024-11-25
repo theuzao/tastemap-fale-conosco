@@ -1,0 +1,12 @@
+{
+  "name": "json-server-mensagens",
+  "version": "1.0.0",
+  "description": "API para armazenar mensagens do formulário Fale Conosco",
+  "main": "index.js",
+ "scripts": {
+  "start": "json-server --watch db.json --port $PORT --middlewares cors.js"
+},
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
